@@ -18,7 +18,7 @@ linkedin: chenyang-cao-87b522309
 # orcid: 0000-0000-0000-0000
 
 short_bio: >-
-  I am Chenyang Cao, I am a incoming PhD at University of Toronto (UofT) advised by Prof. <a href="https://leaf.utias.utoronto.ca/author/nicholas-rhinehart/">Nicholas Rhinehart</a>. I used to study at Tsinghua University and I am lucky to work under the supervision of Prof. <a href="https://scholar.google.com/citations?user=h9dN_ykAAAAJ&hl=en&oi=ao">Xueqian Wang</a>. I received my B.E. degree in mathematics from Fudan University advised by Prof. Zhenyun Qin and Prof. <a href="https://hmshan.io/">Hongming Shan</a>. My research interests are reinforcement learning, robotics, continuous learning and motion planning. I am also interested in LLM and multimodal perception.
+  I am Chenyang Cao, I am an incoming PhD student at the University of Toronto (UofT) advised by Prof. <a href="https://leaf.utias.utoronto.ca/author/nicholas-rhinehart/">Nicholas Rhinehart</a>. I used to study at Tsinghua University and I am lucky to work under the supervision of Prof. <a href="https://scholar.google.com/citations?user=h9dN_ykAAAAJ&hl=en&oi=ao">Xueqian Wang</a>. I received my B.E. degree in mathematics from Fudan University, advised by Prof. Zhenyun Qin and Prof. <a href="https://hmshan.io/">Hongming Shan</a>. My research interests are reinforcement learning, robotics, continuous learning and motion planning. I am also interested in LLM and multimodal perception.
 
 show_portrait: true
 portrait_url: assets/images/photos/profile.jpg
@@ -28,11 +28,11 @@ portrait_caption: >-
 education:
 - name: University of Toronto
   logo: assets/images/badges/utoronto.png
-  position: PhD in Aerospace Studies & Engeering and Robotics
+  position: PhD in Aerospace Studies & Engineering and Robotics
   date: Sep. 2025 - Nov. 2029 (Expected)
 - name: Tsinghua University
   logo: assets/images/badges/tsinghua.png
-  position: MS in Electronic and Information Engeering
+  position: MS in Electronic and Information Engineering
   date: Sep. 2022 - Jun. 2025
 - name: Fudan University
   logo: assets/images/badges/fudan.png
