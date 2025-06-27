@@ -1,0 +1,66 @@
+primary_name: "Chenyang Cao"
+secondary_name: ""
+navbar_name: "Chenyang's Home Page"
+
+positions:
+  - '<span class="no-break"><img src="assets/images/badges/utoronto.png" alt="University of Toronto" style="width: 18px;" class="mr-1 mt-1"></span> incoming PhD, University of Toronto'
+
+email: "chenyangcao5@gmail.com"
+gscholar: uSpiLrMAAAAJ
+github: Sunlighted
+x: ChenyangCa0
+# wechat_qrcode: assets/images/etc/wechat.jpg
+# wechat_prompt: >-
+#   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
+# zhihu: wang-rong-sheng-74
+resume: assets/cv/chenyangcao_cv.pdf
+linkedin: chenyang-cao-87b522309
+# orcid: 0000-0000-0000-0000
+
+short_bio: >-
+  I am Chenyang Cao, I am a incoming PhD at University of Toronto (UofT) advised by Prof. <a href="https://leaf.utias.utoronto.ca/author/nicholas-rhinehart/">Nicholas Rhinehart</a>. I used to study at Tsinghua University and I am lucky to work under the supervision of Prof. <a href="https://scholar.google.com/citations?user=h9dN_ykAAAAJ&hl=en&oi=ao">Xueqian Wang</a>. I received my B.E. degree in mathematics from Fudan University advised by Prof. Zhenyun Qin and Prof. <a href="https://hmshan.io/">Hongming Shan</a>. My research interests are reinforcement learning, robotics, continuous learning and motion planning. I am also interested in LLM and multimodal perception.
+
+show_portrait: true
+portrait_url: assets/images/photos/profile.jpg
+portrait_caption: >-
+  I'm Chenyang Cao. Welcome to my page.
+
+education:
+- name: University of Toronto
+  logo: assets/images/badges/utoronto.png
+  position: PhD in Aerospace Studies & Engeering and Robotics
+  date: Sep. 2025 - Nov. 2029 (Expected)
+- name: Tsinghua University
+  logo: assets/images/badges/Tsinghua.png
+  position: MS in Electronic and Information Engeering
+  date: Sep. 2022 - Jun. 2025
+- name: Fudan University
+  logo: assets/images/badges/fudan.png
+  position: BS in Mathematics and Applied Mathematics
+  date: Sep. 2018 - Jun. 2022
+  
+experience:
+- name: Microsoft
+  logo: assets/images/badges/mic.png
+  position: Research Intern
+  date: Oct. 2023 - Mar. 2024
+
+awards:
+- name: First Class Scholarship of Tsinghua University SIGS
+  date: 2024
+- name: Second Class Scholarship of Tsinghua University SIGS
+  date: 2023
+- name: Meritorious Winner of Mathematical Contest in Modeling
+  date: 2022
+- name: Third Class Scholarship of Fudan University
+  date: 2019-2022
+
+service:
+- name: Reviewer of <a href="https://2024.ieee-icra.org/">ICRA 2024</a>
+- name: Reviewer of <a href="https://iclr.cc/">ICLR 2025</a>
+- name: Reviewer of <a href="https://www.ieee-ras.org/publications/ra-l">RA-L</a>
+
+# Feel free to replace the footer text if you would like to, but I will greatly appreciate it 
+# if you keep the link to the template so that more people can benefit from it. Thanks!
+footer_text: >-
+  Copyright © 2025 <a href="https://github.com/Sunlighted" target="_blank">Chenyang Cao</a>. All Rights Reserved.
