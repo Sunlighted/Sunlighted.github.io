@@ -9,6 +9,7 @@ pub_last:       ' <span class="badge badge-pill badge-custom badge-secondary">Co
 pub_date:       "2024"
 
 abstract: >-
+  We make a wristband teleoperation system to provide haptic feedback from the end-effector.
   
 cover:          assets/images/covers/robio.png
 authors:
