@@ -18,6 +18,6 @@ authors:
   - Xueqian Wang
   - Nicholas Rhinehart†
 links:
-  Paper: 
+  Paper: https://arxiv.org/abs/2507.00611
   Project Page: https://sunlighted.github.io/RRM-web/
 ---
