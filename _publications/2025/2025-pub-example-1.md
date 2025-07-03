@@ -1,5 +1,5 @@
 ---
-title:          FOSP： Fine-tuning Safe Policy through World Models
+title:          FOSP： Fine-tuning Offline Safe Policy through World Models
 date:           2025-04-13 00:01:00 +0800
 selected:       true
 pub:            "ICLR"
@@ -10,6 +10,7 @@ pub_last:       ' <span class="badge badge-pill badge-custom badge-secondary">Co
 pub_date:       "2025"
 
 abstract: >-
+  We propose a safe offline-to-online reinforcement learning algorithm by leveraging world models. It ensures the agent safely moves in the environment during online fine-tuning. 
   
 cover:          assets/images/covers/fosp.png
 authors:
