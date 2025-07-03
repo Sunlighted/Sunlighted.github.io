@@ -9,7 +9,7 @@ pub_last:       ' <span class="badge badge-pill badge-custom badge-secondary">Co
 pub_date:       "2025"
 
 abstract: >-
-  
+  We propose a residual reward model for reward learning by effectively taking advantage of human prior knowledge.
 cover:          assets/images/covers/rrm.png
 authors:
   - Chenyang Cao
