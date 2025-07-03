@@ -8,7 +8,7 @@ pub:            "ICRA"
 pub_last:       ' <span class="badge badge-pill badge-custom badge-secondary">Conference</span>'
 pub_date:       "2024"
 
-abstract:>-
+abstract: >-
   We propose an offline goal-conditioned reinforcement learning algorithm to solve the planning problem in constrained environments without interacting with them. The algorithm combines the advantages of efficient planning and safe obstacle avoidance, and effectively balances the optimization of both aspects.
   
 cover:          assets/images/covers/rbsl.png
